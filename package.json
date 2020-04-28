@@ -1,0 +1,29 @@
+{
+  "name": "web-debug-box",
+  "version": "1.0.0",
+  "description": "A draggable float window for dev to debug (especially for mobile)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evilrescuer/web-debug-box.git"
+  },
+  "keywords": [
+    "dev",
+    "mobile",
+    "html",
+    "debug"
+  ],
+  "author": "Mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evilrescuer/web-debug-box/issues"
+  },
+  "homepage": "https://github.com/evilrescuer/web-debug-box#readme",
+  "dependencies": {
+    "hammerjs": "^2.0.8"
+  }
+}
