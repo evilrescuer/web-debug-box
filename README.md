@@ -45,5 +45,5 @@ you can also set style or set class for the `box`
 
 #### Example
 
-![example](./example.png)
+![example](/example.png)
 
