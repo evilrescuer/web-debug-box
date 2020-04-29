@@ -6,8 +6,8 @@ This box will help you to show the data.
 
 #### usage
 * install
-    * `yarn add web-debug-box`
-    * OR `npm install web-debug-box`
+    * `yarn add web-debug-box --dev`
+    * OR `npm install web-debug-box --save-dev`
 * init
     ```
         import WebDebugBox from 'web-debug-box'
