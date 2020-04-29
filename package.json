@@ -1,6 +1,6 @@
 {
   "name": "web-debug-box",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A draggable float window for dev to debug (especially for mobile)",
   "main": "index.js",
   "scripts": {
